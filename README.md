@@ -171,10 +171,6 @@ All dependencies are listed in:
 requirements.txt
 ```
 
-Current core dependency:
-
-* `requests`
-
 (Standard library modules like `sqlite3` are included with Python)
 
 ---
